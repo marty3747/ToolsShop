@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tools Shop</string>
+    <string name="logo_description">Логотип магазина инструментов</string>
+    <string name="logo_drill">Логотип дрели</string>
+    <string-array name="tools">
+        <item>Дрель</item>
+        <item>Перфоратор</item>
+        <item>Болгарки</item>
+    </string-array>
+
+    <string name="drill_interskol_title">Дрель Интерскол</string>
+    <string name="drill_makita_title">Дрель Макита</string>
+    <string name="drill_dewalt_title">Дрель Деволт</string>
+
+    <string name="drill_interskol_info">Описание 1</string>
+    <string name="drill_makita_info">dkkjfksdjfkjsdkfjkdsjfkdsfkjdskfjksdjfkjsdkfjkdsjfkdsjkfjsdkcnkndvndfjbvkdjfnvkjsnkdvnsdjnvkdsnvk
+    sdkmckdsmkcmksdmcksdncknsdkcnksdncksdnkcnsdkcnskdncksdnkfnksdnfknsdkfnksdnkcnksdncbsdhcbbsdjcbsdjnvfnvlksnldkvnlsfknvlksnflvknsflknv
+    sdknvksdmvl;smdvlmdslvmdslmvlmlskkdnknvkdsnvkndsknvksnckvisjhijdjksdjfkjdskfjkdscknsdkcndskncknsdcnsdc,sd,cmds,cm,sdcm,sdmc,msd,mc,dk</string>
+    <string name="drill_dewalt_info">Опиание 3</string>
+</resources>
